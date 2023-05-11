@@ -1,2 +1,2 @@
 # risakawagoe.github.io
-currently under development
+currently under development (https://risakawagoe.github.io)
